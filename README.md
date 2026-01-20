@@ -1,118 +1,91 @@
-👋 Hi, I'm cristian bedoya 
+# 👋 Hola, soy Cristian Bedoya
 
-🎓 Systems Engineering student (9th semester) | 💻 Junior Software Developer in progress | 🤖 AI‑powered development enthusiast
+💻 **Junior Full‑Stack Developer** (React/TypeScript · Node.js · PostgreSQL) 
 
-I'm a Systems Engineering student from Colombia, passionate about building functional, clean and scalable software. I focus on backend and full‑stack development, combining solid engineering fundamentals with modern tools like GitHub Copilot, cloud platforms and automation.
+🎓 Estudiante de Ingeniería de Sistemas (9º semestre - remoto) - Universidad Santiago de Cali, Colombia  
+🤖 Trabajo con **IA generativa (GitHub Copilot)** como copiloto para acelerar prototipos y MVPs **sin sacrificar criterio técnico**.
 
-I believe in learning by building real projects, understanding why things work (not just how), and continuously improving through exploration and feedback.
+## 🚀 Cómo aporto:
+Convierto ideas en **aplicaciones full‑stack funcionales** (MVP → iteración) con una base técnica ordenada: **API + BD + UI + despliegue + CI/CD**.  
+Soy junior, pero aporto **velocidad + estructura + mentalidad de producto** y sé validar/corregir código asistido por IA.
 
-🚀 What I do
+## ✅ Lo que hago bien (y puedes esperar de mí)
+- Construcción de **CRUDs completos** con buenas prácticas (capas, responsabilidades, rutas/servicios, BD relacional)
+- **Autenticación y autorización** en proyectos (JWT, refresh tokens, RBAC cuando aplica)
+- Integración de frontend con APIs REST (manejo de sesión, refresh, estados de UI)
+- **Deploy y operación básica**: Docker, PostgreSQL, CI/CD con GitHub Actions, GitHub Pages, VPS/Droplets
+- Uso profesional de IA (Copilot) para acelerar: scaffolding, refactor, debugging; siempre con **revisión y validación**
 
-Design and build backend APIs with real authentication and authorization
+## 🛠️ Tecnologías (nivel práctico)
+**Frontend:** React, TypeScript/JavaScript, Vite  
+**Backend:** Node.js, Express  
+**DB:** PostgreSQL, Firestore (según proyecto)  
+**DevOps / Deploy:** Docker, DigitalOcean Droplets, GitHub Actions, GitHub Pages  
+**Testing & Quality:** Vitest, Playwright, ESLint, Husky  
+**Otros:** Documentación con ADRs + Mermaid (cuando aplica)
 
-Develop CRUD systems with users, roles and business logic
+---
 
-Apply software engineering principles (clean code, layered architecture)
+## 📌 Proyectos destacados (verificables)
 
-Use AI tools to accelerate development without losing understanding
+### 1) CRUD Users + RBAC + Auditoría + “Panel IA” (Full‑Stack) — *(AI‑assisted)*
+**Live:** http://206.189.76.47:5173/  
+**Repo:** https://github.com/cristianbedoya64/crud-users-ia
+**Despliegue:** **DigitalOcean Droplet + Docker** (servicios containerizados)
 
-Version, document and structure projects as in real industry environments
+Sistema full‑stack para **gestión de usuarios** con roles y permisos (**RBAC**), **auditoría** de acciones, métricas tipo dashboard y un servicio IA (Python/Flask) que devuelve **sugerencias/anomalías** con señales simples del sistema.
 
-🛠️ Tech Stack
+**Stack:** React (Vite) · Node/Express · PostgreSQL · Sequelize · Docker · Python/Flask
 
-Languages & Core
+**Qué hice yo (rol real):**
+- Definí el **alcance** (módulos, endpoints, pantallas) y diseñé el flujo end‑to‑end
+- Tomé decisiones de **arquitectura** (frontend + backend + servicio IA) y estructura por capas
+- Validé reglas de negocio y consistencia (RBAC, flujos de auth/refresh, auditoría, datos/migraciones)
+- Iteré hasta tener un sistema coherente, usable y desplegado en VPS
 
-Java (OOP)
+**Cómo usé IA (sin humo):**
+- Copilot aceleró boilerplate y código repetitivo (rutas, controladores, componentes)
+- Yo hice la **dirección técnica**, revisión, correcciones, wiring entre capas y decisiones finales
 
-TypeScript / JavaScript
+---
 
-C / C# (academic foundation)
+### 2) Portafolio Web (React + CI/CD + Testing)
+**Live:** https://cristianbedoya64.github.io/portafolio-web/  
+**Repo:** https://github.com/cristianbedoya64/portafolio-web
+**Despliegue:** **GitHub Pages** (automatizado con GitHub Actions)
 
-Backend
+Portafolio SPA moderno y responsivo con enfoque en **calidad**, performance y mantenibilidad.
 
-Node.js
+**Incluye:**
+- Testing: **Vitest + Playwright**
+- Calidad: **ESLint + Husky (pre-commit / pre-push)**
+- CI/CD: **GitHub Actions** + deploy en **GitHub Pages**
+- Documentación técnica: **ADRs** y diagramas **Mermaid**
+- Auditoría: Lighthouse (rendimiento/accesibilidad)
 
-NestJS
+---
 
-REST APIs
+## 🤖 Cómo uso IA en mi trabajo (resumen)
+Uso IA para acelerar:
+- generación de estructura base y componentes repetitivos
+- alternativas de implementación y refactorización
+- debugging guiado
 
-JWT Authentication
+Y siempre cierro yo:
+- revisión de seguridad básica y edge cases
+- consistencia entre frontend ↔ backend
+- lectura/ajuste de código y documentación
+- validación funcional con pruebas y despliegue
 
-Role‑based access control
+## 📌 Lo que NO afirmo (y estoy aprendiendo)
+No me vendo como senior: sigo creciendo en arquitectura avanzada, seguridad y escalabilidad.  
+Busco un equipo donde pueda **aportar ejecución** y seguir subiendo nivel con buenas prácticas y feedback.
 
-Frontend
+## 🎯 Busco
+**Rol:** Junior Full‑Stack (React/TypeScript + Node.js)  
+**Interés:** productos web, MVPs, herramientas internas, automatización y features con IA aplicada (cuando tiene sentido).
 
-React
-
-TypeScript
-
-Vite
-
-Databases
-
-MySQL
-
-SQL Server
-
-Basic data modeling & relational design
-
-Tools & Platforms
-
-Git & GitHub
-
-GitHub Copilot
-
-GitHub Actions (basic)
-
-VS Code
-
-AWS (learning path – AWS Educate)
-
-☁️ Cloud & Certifications
-
-🎓 GitHub Student Developer Program (verified)
-
-🏅 GitHub Foundations Certification
-
-☁️ AWS Educate (currently learning cloud fundamentals)
-
-📘 Preparing for AWS Cloud Practitioner
-
-📌 Featured Projects
-🔐 User & Roles Management System (CRUD)
-
-Backend‑focused application with:
-
-Authentication & authorization
-
-Role management
-
-Clean architecture
-
-Real‑world structure
-
-🚧 Currently integrating AI‑based feedback to improve developer experience and system analysis.
-
-(More projects coming soon)
-
-🧠 My mindset
-
-I don't aim to know everything — I aim to learn fast and deeply
-
-I treat projects as mini real‑world systems, not academic tasks
-
-I use AI as a leverage tool, not a shortcut
-
-I'm actively preparing for my first professional role as a Junior Developer
-
-📫 Let's connect
-
-💼 LinkedIn: linkedin.com/in/cristian-alexander-bedoya-marin-ba1306277 
-
-🌐 Portfolio:  cristianbedoya64.github.io/portafolio-web 
-
-📧 Email: cristianalexanderbedoyamarin8@gmail.com 
-
-I'm open to learning opportunities, junior roles, collaborations and feedback.
-
-"Build, learn, iterate — and do it with intention."
+## 📫 Contacto
+- GitHub: https://github.com/cristianbedoya64
+- LinkedIn: https://www.linkedin.com/in/cristian-alexander-bedoya-marin-ba1306277/
+- Email: CristianBedoyaDev@gmail.com
