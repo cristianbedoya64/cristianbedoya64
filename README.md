@@ -1,5 +1,5 @@
 # 👋 Hola, soy Cristian Bedoya
-💻 **Junior Full‑Stack Developer** (React/TypeScript · Node.js · PostgreSQL)  
+💻 **Junior Software Developer** (React/TypeScript · Node.js · PostgreSQL)  
 🎓 Estudiante de Ingeniería de Sistemas (9º semestre ) — Universidad Santiago de Cali - modalidad remoto, Colombia
 
 ---
