@@ -32,7 +32,7 @@ Soy junior, pero aporto **velocidad + estructura + mentalidad de producto**, y s
 ## 📌 Proyectos destacados (verificables)
 
 ### 1) CRUD Users + RBAC + Auditoría + Panel de análisis (AI‑assisted)
-**Live:** http://206.189.76.47
+**Live:** http://www.iausers.me/
 **Repo:** https://github.com/cristianbedoya64/crud-users-ia  
 **Despliegue:** DigitalOcean Droplet + Docker (servicios containerizados)
 
