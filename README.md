@@ -1,106 +1,93 @@
-# 👋 Hola, soy Cristian Bedoya
-💻 **Junior Software Developer** (React/TypeScript · Node.js · PostgreSQL)  
-🎓 Estudiante de Ingeniería de Sistemas (9º semestre ) — Universidad Santiago de Cali - modalidad remoto, Colombia
+👋 Hola, soy Cristian Bedoya
 
----
+💻 Software Developer (Full-Stack & Automatización IA)
+🎓 Estudiante de Ingeniería de Sistemas (10.º semestre) — Universidad Santiago de Cali - Modalidad virtual, Colombia
 
-## 🚀 Cómo aporto
-Construyo apps full‑stack funcionales con base ordenada: **API + BD + UI + auth/roles + despliegue + CI/CD**.  
-Soy junior, pero aporto **velocidad + estructura + mentalidad de producto**, y sé **validar/corregir** código con **asistencia de IA (GitHub Copilot/gpt-5.2-codex)**.
+🚀 Cómo aporto
 
----
+Construyo aplicaciones end-to-end con bases ordenadas: API + BD + UI + auth/roles + despliegue + CI/CD.
 
-## ✅ Lo que hago bien (y puedes esperar de mí)
-- CRUDs completos con buenas prácticas (capas, responsabilidades, rutas/servicios, BD relacional)
-- Auth y permisos en proyectos (JWT, refresh tokens, RBAC cuando aplica)
-- Integración frontend ↔ API REST (sesión, refresh, estados de UI)
-- Deploy y operación básica: Docker, PostgreSQL, GitHub Actions, GitHub Pages, VPS/Droplets
-- Uso de Copilot para acelerar (scaffolding, refactor, debugging) con **revisión y validación humana**
+Automatizo procesos de negocio corporativos (BPA) integrando herramientas No-Code/Low-Code y flujos de Inteligencia Artificial.
 
----
+Aporto velocidad, estructura y mentalidad de producto, iterando y validando código con asistencia de IA (GitHub Copilot / GPT-5.2-codex).
 
-## 🛠️ Tecnologías (nivel práctico)
-- **Frontend:** React, TypeScript/JavaScript, Vite  
-- **Backend:** Node.js, Express  
-- **DB:** PostgreSQL, Firestore (según proyecto)  
-- **DevOps / Deploy:** Docker, DigitalOcean Droplets, GitHub Actions, GitHub Pages  
-- **Testing & Quality:** Vitest, Playwright, ESLint, Husky  
-- **Documentación:** ADRs + Mermaid (cuando aplica)
+✅ Lo que hago bien (y puedes esperar de mí)
 
----
+Desarrollo Full-Stack: CRUDs completos con buenas prácticas (capas, responsabilidades, rutas/servicios, BD relacional).
 
-## 📌 Proyectos destacados (verificables)
+Automatización B2B: Orquestación de asistentes conversacionales y alertas automatizadas para ventas y atención al cliente.
 
-### 1) CRUD Users + RBAC + Auditoría + Panel de análisis (AI‑assisted)
-**Live:** http://www.iausers.me/
-**Repo:** https://github.com/cristianbedoya64/crud-users-ia  
-**Despliegue:** DigitalOcean Droplet + Docker (servicios containerizados)
+Seguridad y Arquitectura: Auth y permisos en proyectos (JWT, refresh tokens, RBAC).
 
-Sistema full‑stack para gestión de usuarios con roles y permisos (**RBAC**), auditoría de acciones y un servicio de **análisis asistido** (modelo simple/heurístico en Python/Flask) que genera sugerencias a partir de señales del sistema.  
-**Señales:** actividad de usuarios, roles, accesos fallidos, métricas agregadas.
+Deploy y Operación: Docker, PostgreSQL, GitHub Actions, DigitalOcean (Droplets).
 
-**Stack:** React (Vite) · Node/Express · PostgreSQL · Sequelize · Docker · Python/Flask
+🛠️ Tecnologías (nivel práctico)
 
-**Highlights técnicos:**
-- **Auth:** JWT + refresh tokens, middleware RBAC, auditoría de acciones
-- **Infra:** Docker (servicios), PostgreSQL, deploy en Droplet (VPS)
+Frontend: React, TypeScript/JavaScript, Vite
 
-**Mi rol (owner del proyecto):**
-- Definí alcance, arquitectura (frontend + backend + servicio de análisis) y reglas de negocio
-- Guié el desarrollo iterativo y validé la implementación (integración, flujos y consistencia)
+Backend: Node.js, Express
 
-**Tradeoff / aprendizaje:**
-- Priorizé velocidad de iteración y entrega funcional sobre hardening completo; siguiente paso: **HTTPS + dominio, mejoras de seguridad y más pruebas automatizadas**
+Automatización & IA: WhatsApp Business API, Make (Integromat), ManyChat
 
----
+DB: PostgreSQL, Firestore (según proyecto)
 
-### 2) Portafolio Web (React + CI/CD + Testing)
-**Live:** https://cristianbedoya64.github.io/portafolio-web/  
-**Repo:** https://github.com/cristianbedoya64/portafolio-web  
-**Despliegue:** GitHub Pages (automatizado con GitHub Actions)
+DevOps / Deploy: Docker, DigitalOcean Droplets, GitHub Actions, GitHub Pages
+
+Testing & Quality: Vitest, Playwright, ESLint, Husky
+
+💼 Experiencia Destacada
+
+Desarrollador de Software & Automatizaciones IA (Freelance - 4 meses): Diseñé e implementé un asistente de ventas inteligente y un sistema de alertas de cobro integrando la API de WhatsApp mediante ManyChat y Make para la firma Consultores Jurídicos y Empresariales de Bilbao, optimizando sus tiempos operativos y de conversión.
+
+📌 Proyectos (verificables)
+
+1) CRUD Users + RBAC + Auditoría + Panel de análisis
+
+Live: http://www.iausers.me/ | Repo: https://github.com/cristianbedoya64/crud-users-ia
+
+Despliegue: DigitalOcean Droplet + Docker
+
+Sistema full-stack para gestión de usuarios con control de acceso basado en roles (RBAC) y auditoría de acciones.
+
+Stack: Node/Express · PostgreSQL · React (Vite) · Docker
+
+Highlights: Autenticación segura (JWT + refresh), middleware RBAC, y servicios containerizados desplegados en VPS.
+
+2) Portafolio Web (React + CI/CD + Testing)
+
+Live: https://cristianbedoya64.github.io/portafolio-web/ | Repo: https://github.com/cristianbedoya64/portafolio-web
+
+Despliegue: GitHub Pages (automatizado con GitHub Actions)
 
 Portafolio SPA moderno, responsivo y mantenible, con foco en calidad y performance.
 
-**Incluye:**
-- **Testing:** Vitest + Playwright
-- **Calidad:** ESLint + Husky (pre-commit / pre-push)
-- **CI/CD:** GitHub Actions + deploy a GitHub Pages
-- **Documentación:** ADRs + Mermaid
-- **Auditoría:** Lighthouse (rendimiento/accesibilidad)
+Highlights: Pipelines de CI/CD, pruebas con Vitest y Playwright, pre-commits (Husky) y auditorías Lighthouse.
 
-**Tradeoff / aprendizaje:**
-- Preferí una base de tooling sólida (tests/CI/calidad) para mantener el proyecto escalable; siguiente paso: **más casos de prueba y métricas de performance por PR**
+🤖 Cómo uso asistencia de IA en mi trabajo
+Uso Copilot / GPT para acelerar:
 
----
+Scaffolding y creación de componentes repetitivos.
 
-## 🤖 Cómo uso asistencia de IA en mi trabajo (resumen)
-Uso Copilot para acelerar:
-- scaffolding y componentes repetitivos
-- alternativas de implementación y refactorización
-- debugging guiado
+Exploración de alternativas de implementación y refactorización.
 
-Y cierro yo:
-- revisión de edge cases y seguridad básica
-- consistencia entre frontend ↔ backend
-- ajustes finales de código y documentación
-- validación funcional con pruebas y despliegue
+Debugging guiado.
 
----
+Y cierro yo con revisión humana:
 
-## 🎯 Busco
-**Rol:** Junior Full‑Stack
-**Interés:** productos web, herramientas internas, automatización y features con asistencia de IA (cuando aporta valor).
+Análisis de edge cases y seguridad.
 
----
+Consistencia entre el frontend y backend.
 
-## ✅ Actualmente
-- Mejorando hardening del deploy (HTTPS + dominio).
-- Aumentando cobertura de pruebas (smoke + e2e).
+Ajustes finales de código, documentación y pruebas manuales.
 
----
+🎯 Busco
 
-## 📫 Contacto
-- GitHub: https://github.com/cristianbedoya64  
-- LinkedIn: https://www.linkedin.com/in/cristian-alexander-bedoya-marin-ba1306277/  
-- Email: CristianBedoyaDev@gmail.com
+Rol: Full-Stack Developer / Pasante / Automatización IA.
 
+Interés: Productos web, herramientas internas, eficiencia operativa y features con asistencia de IA.
+
+📫 Contacto
+
+LinkedIn: https://www.linkedin.com/in/cristian-alexander-bedoya-marin-ba1306277/
+
+Email: CristianBedoyaDev@gmail.com
